@@ -1,0 +1,501 @@
+Date,Product Name,Category,Price,Quantity Sold,Total Sales,Region
+2024-06-04,Holi Colors,Festival,4320.35,68,293783.8,Delhi
+2022-07-26,Electric Blanket,Winter,2791.56,45,125620.2,Ahmedabad
+2023-07-01,Air Cooler,Summer,2171.83,17,36921.11,Bangalore
+2023-08-05,Winter Jacket,Winter,2007.16,39,78279.24,Delhi
+2024-07-27,Holi Colors,Festival,458.92,7,3212.44,Hyderabad
+2023-11-19,Electric Blanket,Winter,4783.34,4,19133.36,Delhi
+2022-08-14,Diwali Lights,Festival,171.73,84,14425.32,Hyderabad
+2023-05-12,Christmas Tree,Festival,1962.65,18,35327.7,Ahmedabad
+2022-05-18,Mosquito Repellent,Monsoon,4162.36,27,112383.72,Hyderabad
+2023-09-28,Swimwear,Summer,2681.94,4,10727.76,Mumbai
+2024-11-30,Mosquito Repellent,Monsoon,395.04,67,26467.68,Pune
+2025-02-10,Mosquito Repellent,Monsoon,4821.38,37,178391.06,Bangalore
+2023-06-26,Raincoat,Monsoon,4324.62,42,181634.04,Jaipur
+2022-01-06,Swimwear,Summer,1230.02,1,1230.02,Pune
+2023-01-23,Sunscreen,Summer,464.43,10,4644.3,Ahmedabad
+2022-09-07,Raincoat,Monsoon,4892.67,93,455018.31,Pune
+2024-03-10,Christmas Tree,Festival,3299.16,54,178154.64,Mumbai
+2023-03-04,Diwali Lights,Festival,2501.66,42,105069.72,Kolkata
+2024-04-12,Winter Jacket,Winter,3725.36,39,145289.04,Mumbai
+2024-05-22,Rakhi,Festival,4046.12,82,331781.84,Jaipur
+2023-03-14,Heater,Winter,2071.9,46,95307.4,Bangalore
+2023-02-19,Diwali Lights,Festival,4553.28,45,204897.6,Bangalore
+2024-05-11,Ice Cream Maker,Summer,2291.19,4,9164.76,Mumbai
+2024-03-18,Christmas Tree,Festival,2286.53,59,134905.27,Jaipur
+2022-09-21,Eid Lanterns,Festival,508.48,86,43729.28,Bangalore
+2023-12-01,Ice Cream Maker,Summer,1037.71,21,21791.91,Mumbai
+2023-05-21,Diwali Lights,Festival,4592.96,22,101045.12,Hyderabad
+2022-06-13,Dehumidifier,Monsoon,2079.13,24,49899.12,Delhi
+2023-11-22,Heater,Winter,3155.91,28,88365.48,Pune
+2022-11-19,Holi Colors,Festival,2516.83,25,62920.75,Delhi
+2025-01-22,Umbrella,Monsoon,3117.87,29,90418.23,Lucknow
+2024-12-29,Raincoat,Monsoon,2904.2,82,238144.4,Ahmedabad
+2022-12-14,Mosquito Repellent,Monsoon,1895.54,41,77717.14,Ahmedabad
+2023-06-12,Dehumidifier,Monsoon,1115.78,41,45746.98,Bangalore
+2023-11-12,Waterproof Shoes,Monsoon,4276.39,81,346387.59,Ahmedabad
+2023-03-12,Rakhi,Festival,4677.63,73,341466.99,Ahmedabad
+2024-01-04,Sunglasses,Summer,3367.0,43,144781.0,Pune
+2022-04-12,Raincoat,Monsoon,2577.8,10,25778.0,Delhi
+2023-08-04,Air Cooler,Summer,4334.65,45,195059.25,Jaipur
+2023-07-30,Dehumidifier,Monsoon,2184.54,95,207531.3,Ahmedabad
+2022-12-15,Air Cooler,Summer,1817.52,21,38167.92,Bangalore
+2023-03-06,Winter Jacket,Winter,529.62,17,9003.54,Bangalore
+2023-01-19,Christmas Tree,Festival,2306.78,18,41522.04,Pune
+2024-04-28,Sunscreen,Summer,4364.31,3,13092.93,Jaipur
+2022-01-24,Raincoat,Monsoon,2275.1,5,11375.5,Hyderabad
+2024-05-22,Sunscreen,Summer,4560.41,25,114010.25,Jaipur
+2024-05-30,Mosquito Repellent,Monsoon,2319.48,35,81181.8,Lucknow
+2022-05-15,Ice Cream Maker,Summer,2323.28,32,74344.96,Bangalore
+2022-06-27,Woolen Socks,Winter,3539.35,38,134495.3,Jaipur
+2022-02-01,Waterproof Shoes,Monsoon,3939.54,85,334860.9,Kolkata
+2023-09-11,Mosquito Repellent,Monsoon,3822.68,69,263764.92,Pune
+2023-04-20,Winter Jacket,Winter,575.51,16,9208.16,Hyderabad
+2025-01-21,Mosquito Repellent,Monsoon,924.02,86,79465.72,Ahmedabad
+2022-04-10,Winter Jacket,Winter,2672.95,48,128301.6,Jaipur
+2022-11-30,Waterproof Shoes,Monsoon,4102.29,58,237932.82,Pune
+2022-05-27,Rakhi,Festival,2652.46,78,206891.88,Chennai
+2022-07-31,Christmas Tree,Festival,4407.06,2,8814.12,Ahmedabad
+2024-09-20,Christmas Tree,Festival,367.84,96,35312.64,Chennai
+2024-11-06,Sunglasses,Summer,4763.27,47,223873.69,Chennai
+2023-04-14,Gloves,Winter,1308.06,36,47090.16,Lucknow
+2022-02-27,Sunscreen,Summer,4930.05,8,39440.4,Hyderabad
+2023-01-29,Electric Blanket,Winter,1921.12,16,30737.92,Lucknow
+2024-01-02,Mosquito Repellent,Monsoon,568.95,7,3982.65,Kolkata
+2024-11-22,Air Cooler,Summer,4150.27,20,83005.4,Mumbai
+2022-12-31,Sunglasses,Summer,2330.21,4,9320.84,Delhi
+2024-11-03,Eid Lanterns,Festival,4248.54,1,4248.54,Lucknow
+2024-08-13,Raincoat,Monsoon,3428.95,23,78865.85,Mumbai
+2022-03-02,Electric Blanket,Winter,3725.72,22,81965.84,Delhi
+2024-02-09,Dehumidifier,Monsoon,2641.66,49,129441.34,Hyderabad
+2024-03-14,Air Cooler,Summer,3716.51,13,48314.63,Ahmedabad
+2023-10-28,Raincoat,Monsoon,4243.14,27,114564.78,Bangalore
+2023-12-12,Air Cooler,Summer,4991.86,6,29951.16,Chennai
+2024-04-05,Swimwear,Summer,4885.23,15,73278.45,Mumbai
+2022-02-01,Woolen Socks,Winter,3147.37,11,34621.07,Ahmedabad
+2022-07-28,Winter Jacket,Winter,4562.77,39,177948.03,Hyderabad
+2022-12-03,Umbrella,Monsoon,1185.39,19,22522.41,Mumbai
+2023-10-26,Raincoat,Monsoon,1213.91,26,31561.66,Lucknow
+2023-10-24,Waterproof Shoes,Monsoon,3703.92,9,33335.28,Lucknow
+2024-02-24,Rakhi,Festival,1925.51,38,73169.38,Ahmedabad
+2024-12-18,Eid Lanterns,Festival,4612.76,84,387471.84,Hyderabad
+2024-01-07,Umbrella,Monsoon,4639.14,43,199483.02,Hyderabad
+2023-09-26,Winter Jacket,Winter,172.71,46,7944.66,Jaipur
+2022-07-25,Mosquito Repellent,Monsoon,3604.43,98,353234.14,Mumbai
+2024-03-29,Ice Cream Maker,Summer,173.16,33,5714.28,Jaipur
+2022-10-11,Umbrella,Monsoon,3436.2,32,109958.4,Pune
+2023-02-07,Mosquito Repellent,Monsoon,1677.71,22,36909.62,Delhi
+2022-04-07,Holi Colors,Festival,3756.08,24,90145.92,Bangalore
+2024-10-30,Waterproof Shoes,Monsoon,2965.38,68,201645.84,Mumbai
+2023-08-12,Air Cooler,Summer,4962.56,5,24812.8,Kolkata
+2022-12-31,Rakhi,Festival,4317.4,41,177013.4,Lucknow
+2024-06-17,Raincoat,Monsoon,1895.72,54,102368.88,Kolkata
+2022-12-31,Holi Colors,Festival,4323.04,100,432304.0,Mumbai
+2022-03-04,Electric Blanket,Winter,4247.62,40,169904.8,Mumbai
+2024-06-16,Gloves,Winter,2535.49,8,20283.92,Kolkata
+2022-10-16,Eid Lanterns,Festival,4639.38,65,301559.7,Bangalore
+2023-05-28,Winter Jacket,Winter,2473.34,18,44520.12,Jaipur
+2024-12-01,Gloves,Winter,498.81,2,997.62,Hyderabad
+2024-10-09,Holi Colors,Festival,3608.76,33,119089.08,Lucknow
+2023-06-26,Dehumidifier,Monsoon,2574.63,30,77238.9,Jaipur
+2022-10-18,Dehumidifier,Monsoon,2331.01,95,221445.95,Ahmedabad
+2022-07-25,Rakhi,Festival,4988.59,52,259406.68,Ahmedabad
+2022-06-15,Umbrella,Monsoon,3735.16,23,85908.68,Bangalore
+2023-10-07,Sunglasses,Summer,1477.12,1,1477.12,Pune
+2025-02-12,Mosquito Repellent,Monsoon,3922.7,78,305970.6,Mumbai
+2022-11-07,Mosquito Repellent,Monsoon,1090.63,26,28356.38,Kolkata
+2022-03-16,Heater,Winter,3433.98,39,133925.22,Hyderabad
+2024-08-10,Ice Cream Maker,Summer,2647.01,29,76763.29,Ahmedabad
+2024-01-10,Diwali Lights,Festival,434.5,69,29980.5,Mumbai
+2022-03-18,Holi Colors,Festival,2373.72,17,40353.24,Pune
+2023-02-17,Waterproof Shoes,Monsoon,969.66,75,72724.5,Kolkata
+2024-02-29,Rakhi,Festival,413.88,1,413.88,Hyderabad
+2024-01-27,Sunscreen,Summer,3999.39,40,159975.6,Delhi
+2024-11-01,Woolen Socks,Winter,1302.06,10,13020.6,Chennai
+2022-06-13,Sunglasses,Summer,2507.29,10,25072.9,Ahmedabad
+2023-05-13,Sunglasses,Summer,3316.97,14,46437.58,Lucknow
+2023-06-14,Christmas Tree,Festival,676.64,96,64957.44,Mumbai
+2022-05-12,Ice Cream Maker,Summer,3278.21,16,52451.36,Jaipur
+2023-11-15,Heater,Winter,815.76,21,17130.96,Kolkata
+2022-10-06,Rakhi,Festival,4570.7,40,182828.0,Delhi
+2024-05-15,Sunglasses,Summer,3050.31,1,3050.31,Lucknow
+2023-08-11,Diwali Lights,Festival,1538.24,61,93832.64,Kolkata
+2024-08-24,Air Cooler,Summer,3093.01,17,52581.17,Kolkata
+2022-09-25,Woolen Socks,Winter,3480.23,17,59163.91,Delhi
+2024-02-20,Christmas Tree,Festival,2247.03,5,11235.15,Kolkata
+2022-12-28,Gloves,Winter,739.41,23,17006.43,Ahmedabad
+2022-09-28,Umbrella,Monsoon,205.49,35,7192.15,Delhi
+2023-01-09,Gloves,Winter,1676.45,2,3352.9,Ahmedabad
+2023-02-05,Sunglasses,Summer,1888.85,9,16999.65,Delhi
+2022-08-07,Dehumidifier,Monsoon,3875.9,26,100773.4,Mumbai
+2022-06-22,Sunscreen,Summer,3636.1,41,149080.1,Kolkata
+2023-05-30,Umbrella,Monsoon,2566.37,77,197610.49,Delhi
+2023-07-17,Winter Jacket,Winter,177.98,37,6585.26,Lucknow
+2024-04-16,Heater,Winter,1546.54,37,57221.98,Chennai
+2023-07-24,Eid Lanterns,Festival,4262.48,17,72462.16,Chennai
+2024-08-13,Waterproof Shoes,Monsoon,4659.62,33,153767.46,Hyderabad
+2024-08-04,Air Cooler,Summer,2722.04,50,136102.0,Lucknow
+2022-04-27,Diwali Lights,Festival,189.79,34,6452.86,Bangalore
+2024-10-21,Electric Blanket,Winter,622.86,20,12457.2,Hyderabad
+2023-11-18,Dehumidifier,Monsoon,1271.82,2,2543.64,Pune
+2022-06-06,Raincoat,Monsoon,2461.17,88,216582.96,Bangalore
+2024-03-29,Diwali Lights,Festival,2821.46,86,242645.56,Bangalore
+2024-02-04,Diwali Lights,Festival,2546.72,59,150256.48,Ahmedabad
+2024-01-28,Gloves,Winter,763.69,21,16037.49,Bangalore
+2024-09-29,Sunglasses,Summer,4332.89,42,181981.38,Jaipur
+2024-01-10,Diwali Lights,Festival,3944.45,35,138055.75,Bangalore
+2024-06-12,Electric Blanket,Winter,3556.23,8,28449.84,Hyderabad
+2023-10-14,Christmas Tree,Festival,869.17,56,48673.52,Kolkata
+2024-03-08,Electric Blanket,Winter,2793.87,43,120136.41,Jaipur
+2023-11-21,Mosquito Repellent,Monsoon,1001.9,30,30057.0,Lucknow
+2022-12-08,Gloves,Winter,4056.09,30,121682.7,Mumbai
+2024-11-07,Ice Cream Maker,Summer,3350.24,9,30152.16,Pune
+2024-12-04,Rakhi,Festival,4979.04,27,134434.08,Mumbai
+2024-04-04,Holi Colors,Festival,1402.53,37,51893.61,Chennai
+2025-01-31,Eid Lanterns,Festival,4887.04,31,151498.24,Lucknow
+2022-12-09,Holi Colors,Festival,2801.71,54,151292.34,Delhi
+2023-06-27,Umbrella,Monsoon,2965.83,7,20760.81,Kolkata
+2022-01-27,Christmas Tree,Festival,148.52,24,3564.48,Chennai
+2024-08-04,Air Cooler,Summer,528.91,41,21685.31,Pune
+2024-07-19,Gloves,Winter,2111.03,42,88663.26,Ahmedabad
+2022-02-27,Air Cooler,Summer,4037.47,20,80749.4,Delhi
+2022-05-10,Sunglasses,Summer,4652.85,48,223336.8,Hyderabad
+2022-07-28,Rakhi,Festival,1654.82,55,91015.1,Lucknow
+2023-08-14,Swimwear,Summer,1713.39,32,54828.48,Chennai
+2024-05-15,Waterproof Shoes,Monsoon,4274.29,61,260731.69,Lucknow
+2022-12-05,Winter Jacket,Winter,2256.66,4,9026.64,Jaipur
+2022-10-16,Sunglasses,Summer,2484.51,33,81988.83,Delhi
+2024-03-24,Umbrella,Monsoon,2350.22,90,211519.8,Hyderabad
+2022-01-01,Heater,Winter,2250.05,47,105752.35,Ahmedabad
+2022-03-06,Winter Jacket,Winter,1408.89,1,1408.89,Mumbai
+2022-01-31,Sunscreen,Summer,4577.53,5,22887.65,Mumbai
+2024-03-26,Waterproof Shoes,Monsoon,3546.53,15,53197.95,Chennai
+2022-03-24,Gloves,Winter,3106.15,3,9318.45,Hyderabad
+2022-12-11,Dehumidifier,Monsoon,3934.33,63,247862.79,Kolkata
+2023-11-30,Umbrella,Monsoon,994.81,100,99481.0,Jaipur
+2023-01-29,Diwali Lights,Festival,4998.86,87,434900.82,Ahmedabad
+2023-05-30,Air Cooler,Summer,4036.85,15,60552.75,Delhi
+2023-05-17,Sunscreen,Summer,2081.68,49,102002.32,Kolkata
+2025-02-11,Air Cooler,Summer,986.25,38,37477.5,Pune
+2022-12-13,Christmas Tree,Festival,609.86,36,21954.96,Delhi
+2024-11-07,Waterproof Shoes,Monsoon,4088.99,3,12266.97,Hyderabad
+2024-01-09,Woolen Socks,Winter,3433.77,12,41205.24,Pune
+2024-02-22,Raincoat,Monsoon,4003.52,69,276242.88,Kolkata
+2022-01-16,Winter Jacket,Winter,1636.34,2,3272.68,Chennai
+2023-05-07,Diwali Lights,Festival,3838.52,47,180410.44,Kolkata
+2022-03-29,Diwali Lights,Festival,3589.51,73,262034.23,Kolkata
+2024-06-02,Mosquito Repellent,Monsoon,860.85,52,44764.2,Hyderabad
+2024-12-18,Rakhi,Festival,2622.53,59,154729.27,Ahmedabad
+2022-07-27,Dehumidifier,Monsoon,2209.3,93,205464.9,Delhi
+2024-07-10,Holi Colors,Festival,4750.6,37,175772.2,Mumbai
+2023-01-04,Eid Lanterns,Festival,365.51,39,14254.89,Delhi
+2024-05-17,Christmas Tree,Festival,531.06,21,11152.26,Bangalore
+2022-06-21,Winter Jacket,Winter,878.59,2,1757.18,Bangalore
+2022-05-16,Dehumidifier,Monsoon,1558.73,6,9352.38,Lucknow
+2024-04-03,Holi Colors,Festival,816.7,30,24501.0,Ahmedabad
+2023-04-04,Woolen Socks,Winter,2621.47,33,86508.51,Pune
+2024-07-13,Rakhi,Festival,1869.93,27,50488.11,Bangalore
+2024-04-01,Gloves,Winter,4712.24,45,212050.8,Delhi
+2023-01-12,Christmas Tree,Festival,3851.08,7,26957.56,Lucknow
+2022-11-26,Gloves,Winter,3880.99,9,34928.91,Lucknow
+2024-11-28,Holi Colors,Festival,4598.2,32,147142.4,Hyderabad
+2024-05-17,Raincoat,Monsoon,4972.36,53,263535.08,Jaipur
+2024-06-16,Dehumidifier,Monsoon,2074.51,31,64309.81,Delhi
+2022-08-14,Woolen Socks,Winter,1110.17,29,32194.93,Chennai
+2023-11-07,Swimwear,Summer,4063.39,13,52824.07,Bangalore
+2022-11-17,Swimwear,Summer,4001.26,9,36011.34,Mumbai
+2023-07-02,Waterproof Shoes,Monsoon,4431.43,61,270317.23,Mumbai
+2025-02-26,Mosquito Repellent,Monsoon,3065.68,22,67444.96,Ahmedabad
+2022-01-12,Umbrella,Monsoon,320.65,48,15391.2,Jaipur
+2024-12-07,Woolen Socks,Winter,1546.41,45,69588.45,Jaipur
+2023-05-29,Heater,Winter,1383.2,22,30430.4,Hyderabad
+2025-02-17,Sunscreen,Summer,709.39,46,32631.94,Chennai
+2024-07-29,Woolen Socks,Winter,776.95,41,31854.95,Delhi
+2022-01-09,Umbrella,Monsoon,448.07,49,21955.43,Lucknow
+2022-07-31,Air Cooler,Summer,233.04,7,1631.28,Lucknow
+2024-06-27,Sunglasses,Summer,2633.44,35,92170.4,Delhi
+2022-02-21,Sunscreen,Summer,3037.91,31,94175.21,Pune
+2023-11-23,Ice Cream Maker,Summer,1438.36,10,14383.6,Mumbai
+2025-01-15,Christmas Tree,Festival,3651.22,81,295748.82,Chennai
+2024-11-19,Dehumidifier,Monsoon,1537.83,83,127639.89,Bangalore
+2023-03-09,Ice Cream Maker,Summer,917.21,47,43108.87,Bangalore
+2024-10-07,Dehumidifier,Monsoon,3847.47,78,300102.66,Ahmedabad
+2022-03-10,Dehumidifier,Monsoon,2941.34,55,161773.7,Hyderabad
+2024-08-06,Gloves,Winter,420.53,19,7990.07,Pune
+2024-12-10,Sunscreen,Summer,1714.86,27,46301.22,Hyderabad
+2023-02-21,Ice Cream Maker,Summer,2589.85,46,119133.1,Bangalore
+2023-03-17,Mosquito Repellent,Monsoon,4287.69,53,227247.57,Jaipur
+2024-06-10,Diwali Lights,Festival,3712.02,95,352641.9,Pune
+2024-01-04,Woolen Socks,Winter,4593.99,16,73503.84,Mumbai
+2022-05-14,Heater,Winter,2680.96,40,107238.4,Mumbai
+2022-06-14,Diwali Lights,Festival,2502.84,85,212741.4,Pune
+2024-04-21,Heater,Winter,4467.88,40,178715.2,Hyderabad
+2023-10-15,Woolen Socks,Winter,2700.72,32,86423.04,Pune
+2024-08-12,Sunscreen,Summer,2850.99,16,45615.84,Lucknow
+2022-01-04,Gloves,Winter,157.35,50,7867.5,Chennai
+2024-11-21,Heater,Winter,1469.13,48,70518.24,Chennai
+2022-08-24,Rakhi,Festival,4956.83,79,391589.57,Ahmedabad
+2023-05-21,Swimwear,Summer,2551.56,40,102062.4,Pune
+2024-05-02,Umbrella,Monsoon,2685.16,14,37592.24,Lucknow
+2023-03-06,Rakhi,Festival,3619.58,79,285946.82,Hyderabad
+2023-05-20,Sunglasses,Summer,4501.8,50,225090.0,Lucknow
+2022-08-28,Sunscreen,Summer,2321.43,6,13928.58,Chennai
+2023-07-04,Christmas Tree,Festival,1144.33,49,56072.17,Hyderabad
+2024-02-12,Gloves,Winter,2131.07,21,44752.47,Hyderabad
+2022-03-24,Christmas Tree,Festival,1620.97,26,42145.22,Hyderabad
+2022-01-28,Raincoat,Monsoon,916.83,65,59593.95,Delhi
+2024-07-14,Swimwear,Summer,4623.84,47,217320.48,Mumbai
+2023-11-25,Raincoat,Monsoon,1229.5,7,8606.5,Ahmedabad
+2024-02-01,Mosquito Repellent,Monsoon,1169.38,15,17540.7,Lucknow
+2022-07-27,Eid Lanterns,Festival,3359.48,36,120941.28,Ahmedabad
+2022-10-11,Sunscreen,Summer,3706.64,39,144558.96,Lucknow
+2023-07-25,Sunglasses,Summer,2319.73,34,78870.82,Pune
+2023-02-07,Waterproof Shoes,Monsoon,2115.03,25,52875.75,Mumbai
+2022-03-29,Waterproof Shoes,Monsoon,2446.08,25,61152.0,Hyderabad
+2023-04-26,Raincoat,Monsoon,184.34,100,18434.0,Mumbai
+2025-02-04,Raincoat,Monsoon,1481.61,99,146679.39,Mumbai
+2022-06-13,Air Cooler,Summer,128.79,8,1030.32,Kolkata
+2022-10-28,Heater,Winter,3359.23,38,127650.74,Delhi
+2024-10-10,Diwali Lights,Festival,4162.75,55,228951.25,Lucknow
+2022-10-05,Gloves,Winter,2340.25,3,7020.75,Delhi
+2024-05-28,Sunscreen,Summer,4077.0,32,130464.0,Delhi
+2022-01-03,Christmas Tree,Festival,845.65,2,1691.3,Mumbai
+2022-05-13,Electric Blanket,Winter,442.33,39,17250.87,Mumbai
+2024-07-19,Eid Lanterns,Festival,928.71,97,90084.87,Chennai
+2022-09-06,Umbrella,Monsoon,1363.11,7,9541.77,Delhi
+2023-08-06,Sunglasses,Summer,4567.37,23,105049.51,Pune
+2024-08-09,Holi Colors,Festival,2228.45,71,158219.95,Pune
+2023-12-15,Dehumidifier,Monsoon,4233.11,27,114293.97,Lucknow
+2024-03-08,Ice Cream Maker,Summer,480.5,34,16337.0,Pune
+2024-05-12,Electric Blanket,Winter,918.81,46,42265.26,Pune
+2022-10-15,Heater,Winter,2002.12,26,52055.12,Chennai
+2022-07-04,Electric Blanket,Winter,1458.56,15,21878.4,Ahmedabad
+2024-02-04,Ice Cream Maker,Summer,2696.56,12,32358.72,Lucknow
+2022-12-08,Umbrella,Monsoon,3685.62,98,361190.76,Hyderabad
+2023-05-30,Heater,Winter,1577.59,26,41017.34,Bangalore
+2024-02-05,Winter Jacket,Winter,4555.29,40,182211.6,Bangalore
+2023-11-21,Gloves,Winter,2681.01,31,83111.31,Mumbai
+2022-03-13,Mosquito Repellent,Monsoon,217.82,84,18296.88,Mumbai
+2024-09-24,Rakhi,Festival,1360.47,54,73465.38,Mumbai
+2024-09-18,Gloves,Winter,4286.45,5,21432.25,Ahmedabad
+2022-10-14,Christmas Tree,Festival,379.16,86,32607.76,Lucknow
+2022-09-27,Umbrella,Monsoon,1825.74,89,162490.86,Jaipur
+2023-10-13,Raincoat,Monsoon,1644.09,39,64119.51,Lucknow
+2024-12-27,Diwali Lights,Festival,1137.71,100,113771.0,Bangalore
+2023-09-30,Mosquito Repellent,Monsoon,4499.95,2,8999.9,Delhi
+2023-08-02,Eid Lanterns,Festival,476.29,88,41913.52,Ahmedabad
+2022-10-13,Air Cooler,Summer,866.03,45,38971.35,Chennai
+2023-07-07,Eid Lanterns,Festival,2278.52,63,143546.76,Delhi
+2022-08-02,Diwali Lights,Festival,710.23,72,51136.56,Lucknow
+2022-09-18,Heater,Winter,1352.16,24,32451.84,Ahmedabad
+2024-04-25,Sunscreen,Summer,169.44,45,7624.8,Pune
+2022-06-08,Gloves,Winter,1269.08,22,27919.76,Lucknow
+2024-12-23,Diwali Lights,Festival,767.38,8,6139.04,Chennai
+2022-06-09,Air Cooler,Summer,4698.47,40,187938.8,Hyderabad
+2024-12-12,Electric Blanket,Winter,192.91,27,5208.57,Pune
+2025-01-06,Raincoat,Monsoon,3840.63,97,372541.11,Chennai
+2025-02-02,Dehumidifier,Monsoon,1267.1,73,92498.3,Hyderabad
+2022-09-04,Umbrella,Monsoon,4037.3,49,197827.7,Pune
+2024-05-05,Diwali Lights,Festival,1059.61,74,78411.14,Pune
+2024-11-13,Heater,Winter,1538.35,26,39997.1,Delhi
+2024-08-15,Sunscreen,Summer,3030.17,39,118176.63,Delhi
+2024-01-30,Dehumidifier,Monsoon,2580.59,74,190963.66,Pune
+2024-11-10,Swimwear,Summer,1117.69,38,42472.22,Bangalore
+2022-08-26,Mosquito Repellent,Monsoon,2874.77,67,192609.59,Mumbai
+2023-12-08,Dehumidifier,Monsoon,1521.21,30,45636.3,Lucknow
+2024-07-03,Heater,Winter,414.71,27,11197.17,Bangalore
+2022-03-25,Umbrella,Monsoon,4139.4,91,376685.4,Hyderabad
+2023-03-15,Raincoat,Monsoon,3900.82,48,187239.36,Kolkata
+2025-01-19,Umbrella,Monsoon,485.24,19,9219.56,Jaipur
+2023-11-08,Sunscreen,Summer,755.01,31,23405.31,Kolkata
+2022-11-13,Dehumidifier,Monsoon,977.08,45,43968.6,Kolkata
+2024-04-12,Eid Lanterns,Festival,2297.39,11,25271.29,Lucknow
+2024-07-02,Electric Blanket,Winter,501.51,50,25075.5,Kolkata
+2023-05-26,Waterproof Shoes,Monsoon,3765.56,81,305010.36,Delhi
+2024-11-11,Electric Blanket,Winter,3976.88,26,103398.88,Chennai
+2022-11-22,Eid Lanterns,Festival,1994.18,56,111674.08,Kolkata
+2024-12-21,Woolen Socks,Winter,742.42,13,9651.46,Chennai
+2023-03-20,Woolen Socks,Winter,3505.21,50,175260.5,Delhi
+2023-12-24,Waterproof Shoes,Monsoon,229.91,86,19772.26,Hyderabad
+2024-05-21,Air Cooler,Summer,3116.74,9,28050.66,Hyderabad
+2022-03-05,Gloves,Winter,993.18,23,22843.14,Chennai
+2024-07-13,Mosquito Repellent,Monsoon,852.2,83,70732.6,Pune
+2024-11-28,Ice Cream Maker,Summer,1923.99,18,34631.82,Bangalore
+2024-02-17,Air Cooler,Summer,2906.75,10,29067.5,Bangalore
+2022-05-25,Winter Jacket,Winter,4860.09,19,92341.71,Lucknow
+2023-10-08,Air Cooler,Summer,1869.05,5,9345.25,Kolkata
+2023-07-10,Air Cooler,Summer,2966.4,5,14832.0,Chennai
+2023-05-25,Christmas Tree,Festival,2804.08,88,246759.04,Mumbai
+2025-02-25,Gloves,Winter,4025.94,11,44285.34,Delhi
+2024-04-05,Mosquito Repellent,Monsoon,2396.6,22,52725.2,Mumbai
+2024-01-19,Air Cooler,Summer,4047.7,14,56667.8,Ahmedabad
+2022-04-06,Sunscreen,Summer,2687.02,20,53740.4,Jaipur
+2023-07-12,Electric Blanket,Winter,1949.41,40,77976.4,Ahmedabad
+2023-05-12,Winter Jacket,Winter,583.59,6,3501.54,Delhi
+2023-09-05,Mosquito Repellent,Monsoon,4075.15,59,240433.85,Ahmedabad
+2024-01-23,Ice Cream Maker,Summer,4986.69,25,124667.25,Bangalore
+2024-11-10,Woolen Socks,Winter,3290.35,17,55935.95,Mumbai
+2024-01-22,Dehumidifier,Monsoon,4360.33,22,95927.26,Delhi
+2022-11-16,Sunglasses,Summer,4041.12,28,113151.36,Kolkata
+2024-02-06,Heater,Winter,493.51,40,19740.4,Lucknow
+2022-01-13,Waterproof Shoes,Monsoon,1411.78,97,136942.66,Bangalore
+2022-09-07,Ice Cream Maker,Summer,3138.28,36,112978.08,Ahmedabad
+2024-11-14,Dehumidifier,Monsoon,2608.78,20,52175.6,Jaipur
+2022-12-23,Mosquito Repellent,Monsoon,1902.66,45,85619.7,Delhi
+2022-02-05,Dehumidifier,Monsoon,4023.01,64,257472.64,Pune
+2022-05-10,Swimwear,Summer,3623.16,4,14492.64,Bangalore
+2023-06-08,Waterproof Shoes,Monsoon,1799.09,56,100749.04,Ahmedabad
+2024-01-06,Eid Lanterns,Festival,2554.17,56,143033.52,Bangalore
+2022-09-28,Umbrella,Monsoon,875.54,32,28017.28,Lucknow
+2023-12-14,Gloves,Winter,644.78,18,11606.04,Ahmedabad
+2024-06-02,Ice Cream Maker,Summer,143.62,18,2585.16,Lucknow
+2022-02-16,Electric Blanket,Winter,2733.91,25,68347.75,Bangalore
+2024-03-07,Mosquito Repellent,Monsoon,1191.26,94,111978.44,Bangalore
+2022-04-11,Electric Blanket,Winter,1505.82,46,69267.72,Bangalore
+2024-03-24,Umbrella,Monsoon,3894.65,42,163575.3,Jaipur
+2024-10-27,Umbrella,Monsoon,3941.96,3,11825.88,Mumbai
+2024-01-15,Air Cooler,Summer,4266.67,13,55466.71,Mumbai
+2024-08-19,Winter Jacket,Winter,4962.37,31,153833.47,Chennai
+2023-01-28,Raincoat,Monsoon,1380.15,57,78668.55,Chennai
+2022-11-25,Raincoat,Monsoon,468.59,1,468.59,Chennai
+2022-02-19,Mosquito Repellent,Monsoon,2801.52,78,218518.56,Ahmedabad
+2022-06-18,Heater,Winter,4414.83,42,185422.86,Jaipur
+2022-10-15,Ice Cream Maker,Summer,3928.82,13,51074.66,Delhi
+2023-05-21,Heater,Winter,2680.04,28,75041.12,Bangalore
+2023-01-10,Winter Jacket,Winter,1802.12,20,36042.4,Pune
+2022-08-30,Eid Lanterns,Festival,2509.46,34,85321.64,Pune
+2023-12-29,Umbrella,Monsoon,4824.94,24,115798.56,Mumbai
+2023-05-05,Rakhi,Festival,2181.3,97,211586.1,Jaipur
+2024-12-21,Eid Lanterns,Festival,1412.56,11,15538.16,Mumbai
+2024-07-08,Electric Blanket,Winter,3368.77,27,90956.79,Kolkata
+2022-06-25,Umbrella,Monsoon,3511.64,72,252838.08,Ahmedabad
+2023-05-03,Air Cooler,Summer,294.51,1,294.51,Chennai
+2022-07-02,Air Cooler,Summer,1573.98,49,77125.02,Pune
+2022-09-26,Heater,Winter,4963.04,6,29778.24,Bangalore
+2024-10-17,Rakhi,Festival,1923.12,65,125002.8,Pune
+2022-11-13,Heater,Winter,4092.67,33,135058.11,Pune
+2023-01-26,Sunscreen,Summer,628.4,35,21994.0,Hyderabad
+2022-09-26,Eid Lanterns,Festival,3173.15,71,225293.65,Kolkata
+2023-12-10,Gloves,Winter,3413.46,10,34134.6,Pune
+2023-07-27,Diwali Lights,Festival,3188.38,81,258258.78,Delhi
+2024-08-06,Ice Cream Maker,Summer,4406.31,42,185065.02,Jaipur
+2024-06-29,Winter Jacket,Winter,2595.12,14,36331.68,Hyderabad
+2024-03-04,Holi Colors,Festival,3043.1,5,15215.5,Lucknow
+2024-12-16,Sunscreen,Summer,207.99,12,2495.88,Ahmedabad
+2024-01-05,Umbrella,Monsoon,528.65,19,10044.35,Jaipur
+2024-05-21,Mosquito Repellent,Monsoon,4272.52,91,388799.32,Ahmedabad
+2023-08-27,Christmas Tree,Festival,4976.94,73,363316.62,Jaipur
+2023-04-11,Eid Lanterns,Festival,3709.09,32,118690.88,Chennai
+2023-02-19,Gloves,Winter,409.7,2,819.4,Lucknow
+2023-05-08,Sunscreen,Summer,1238.23,26,32193.98,Ahmedabad
+2024-12-29,Heater,Winter,3849.74,15,57746.1,Hyderabad
+2023-12-31,Christmas Tree,Festival,1038.39,34,35305.26,Pune
+2024-11-13,Sunscreen,Summer,2922.24,8,23377.92,Ahmedabad
+2023-01-29,Gloves,Winter,3849.37,17,65439.29,Kolkata
+2022-01-07,Sunglasses,Summer,1710.34,43,73544.62,Lucknow
+2024-06-18,Diwali Lights,Festival,4079.21,58,236594.18,Bangalore
+2023-06-12,Dehumidifier,Monsoon,2764.21,67,185202.07,Delhi
+2024-11-23,Mosquito Repellent,Monsoon,2168.11,92,199466.12,Chennai
+2022-04-12,Electric Blanket,Winter,3003.46,1,3003.46,Ahmedabad
+2025-02-02,Sunscreen,Summer,4954.54,29,143681.66,Bangalore
+2023-05-20,Waterproof Shoes,Monsoon,4860.56,58,281912.48,Lucknow
+2022-09-19,Air Cooler,Summer,3082.68,41,126389.88,Lucknow
+2022-04-27,Mosquito Repellent,Monsoon,4129.77,2,8259.54,Chennai
+2022-06-28,Umbrella,Monsoon,4986.41,14,69809.74,Lucknow
+2024-12-22,Raincoat,Monsoon,377.85,79,29850.15,Delhi
+2024-02-07,Woolen Socks,Winter,4207.48,29,122016.92,Hyderabad
+2024-08-04,Ice Cream Maker,Summer,4877.82,32,156090.24,Jaipur
+2024-06-09,Ice Cream Maker,Summer,2641.36,10,26413.6,Chennai
+2023-07-04,Dehumidifier,Monsoon,1528.56,41,62670.96,Pune
+2023-11-18,Winter Jacket,Winter,1909.52,29,55376.08,Pune
+2024-03-27,Umbrella,Monsoon,4694.68,66,309848.88,Jaipur
+2024-07-09,Winter Jacket,Winter,2053.57,6,12321.42,Lucknow
+2023-07-15,Diwali Lights,Festival,970.3,12,11643.6,Kolkata
+2022-11-19,Sunscreen,Summer,2508.07,3,7524.21,Lucknow
+2024-12-25,Eid Lanterns,Festival,1830.14,1,1830.14,Kolkata
+2023-09-03,Christmas Tree,Festival,1392.53,79,110009.87,Kolkata
+2022-04-25,Mosquito Repellent,Monsoon,3704.35,11,40747.85,Chennai
+2024-04-18,Umbrella,Monsoon,4359.08,59,257185.72,Chennai
+2022-07-04,Woolen Socks,Winter,3704.63,49,181526.87,Lucknow
+2023-07-14,Sunscreen,Summer,3218.02,43,138374.86,Lucknow
+2024-01-19,Electric Blanket,Winter,3636.55,5,18182.75,Lucknow
+2025-01-04,Winter Jacket,Winter,2883.28,36,103798.08,Pune
+2023-08-04,Eid Lanterns,Festival,843.55,92,77606.6,Mumbai
+2022-08-17,Holi Colors,Festival,4137.95,49,202759.55,Chennai
+2022-12-20,Diwali Lights,Festival,1022.58,4,4090.32,Lucknow
+2022-07-25,Ice Cream Maker,Summer,522.01,38,19836.38,Mumbai
+2022-11-29,Electric Blanket,Winter,2180.94,38,82875.72,Bangalore
+2024-03-01,Christmas Tree,Festival,1527.06,32,48865.92,Mumbai
+2023-07-24,Heater,Winter,1435.57,36,51680.52,Hyderabad
+2022-01-09,Electric Blanket,Winter,4456.48,12,53477.76,Mumbai
+2024-04-16,Waterproof Shoes,Monsoon,3902.26,88,343398.88,Chennai
+2024-09-25,Christmas Tree,Festival,2123.39,43,91305.77,Chennai
+2024-08-20,Winter Jacket,Winter,864.12,34,29380.08,Ahmedabad
+2024-04-04,Waterproof Shoes,Monsoon,709.17,52,36876.84,Kolkata
+2024-03-16,Christmas Tree,Festival,1618.22,91,147258.02,Jaipur
+2024-03-14,Raincoat,Monsoon,122.88,15,1843.2,Pune
+2022-02-12,Heater,Winter,1709.6,50,85480.0,Delhi
+2022-12-03,Gloves,Winter,3708.03,39,144613.17,Ahmedabad
+2022-05-18,Diwali Lights,Festival,2945.51,86,253313.86,Kolkata
+2022-07-14,Ice Cream Maker,Summer,4469.8,23,102805.4,Hyderabad
+2024-07-22,Dehumidifier,Monsoon,2957.41,79,233635.39,Ahmedabad
+2022-05-22,Christmas Tree,Festival,656.48,55,36106.4,Kolkata
+2022-05-13,Ice Cream Maker,Summer,2849.74,19,54145.06,Mumbai
+2024-01-02,Mosquito Repellent,Monsoon,2031.47,13,26409.11,Lucknow
+2025-01-24,Sunscreen,Summer,452.11,25,11302.75,Hyderabad
+2022-06-05,Swimwear,Summer,2392.52,35,83738.2,Lucknow
+2024-03-24,Diwali Lights,Festival,152.69,87,13284.03,Mumbai
+2023-08-29,Winter Jacket,Winter,1674.55,15,25118.25,Jaipur
+2024-04-19,Ice Cream Maker,Summer,3144.5,13,40878.5,Ahmedabad
+2022-07-29,Winter Jacket,Winter,2943.5,28,82418.0,Ahmedabad
+2023-03-02,Christmas Tree,Festival,3069.15,19,58313.85,Pune
+2022-08-26,Dehumidifier,Monsoon,2518.21,21,52882.41,Mumbai
+2024-11-02,Raincoat,Monsoon,2020.4,59,119203.6,Lucknow
+2024-02-01,Mosquito Repellent,Monsoon,1540.28,4,6161.12,Bangalore
+2023-05-25,Holi Colors,Festival,4483.27,72,322795.44,Ahmedabad
+2023-01-22,Sunglasses,Summer,197.66,26,5139.16,Hyderabad
+2024-11-18,Dehumidifier,Monsoon,3095.22,39,120713.58,Ahmedabad
+2022-02-25,Waterproof Shoes,Monsoon,1515.94,19,28802.86,Hyderabad
+2023-09-14,Raincoat,Monsoon,1095.8,61,66843.8,Pune
+2024-02-24,Gloves,Winter,3521.21,41,144369.61,Kolkata
+2023-12-10,Gloves,Winter,3653.1,35,127858.5,Pune
+2022-09-11,Air Cooler,Summer,991.32,2,1982.64,Hyderabad
+2025-02-25,Sunglasses,Summer,2075.89,22,45669.58,Kolkata
+2022-08-07,Electric Blanket,Winter,4326.97,45,194713.65,Pune
+2024-04-08,Mosquito Repellent,Monsoon,1548.26,62,95992.12,Pune
+2023-10-18,Electric Blanket,Winter,2979.95,27,80458.65,Bangalore
+2022-11-16,Sunglasses,Summer,4273.84,8,34190.72,Chennai
+2024-10-01,Dehumidifier,Monsoon,1386.23,71,98422.33,Jaipur
+2024-11-21,Rakhi,Festival,1661.95,88,146251.6,Lucknow
+2024-09-06,Holi Colors,Festival,1315.85,1,1315.85,Lucknow
+2022-05-24,Rakhi,Festival,2864.72,74,211989.28,Bangalore
+2023-05-24,Swimwear,Summer,1871.61,14,26202.54,Delhi
+2023-03-09,Woolen Socks,Winter,4402.7,22,96859.4,Lucknow
+2023-05-20,Mosquito Repellent,Monsoon,868.48,75,65136.0,Mumbai
+2023-08-25,Diwali Lights,Festival,1079.52,75,80964.0,Chennai
+2022-02-19,Eid Lanterns,Festival,1811.9,55,99654.5,Mumbai
+2024-03-31,Woolen Socks,Winter,4386.55,29,127209.95,Ahmedabad
+2024-06-23,Sunscreen,Summer,956.4,18,17215.2,Lucknow
+2023-08-29,Rakhi,Festival,4449.99,53,235849.47,Bangalore
+2023-02-12,Ice Cream Maker,Summer,1674.1,5,8370.5,Chennai
+2024-07-31,Mosquito Repellent,Monsoon,2913.21,20,58264.2,Jaipur
+2022-09-29,Christmas Tree,Festival,2136.41,47,100411.27,Delhi
+2022-08-07,Sunglasses,Summer,2238.77,7,15671.39,Hyderabad
+2024-12-20,Electric Blanket,Winter,1943.89,48,93306.72,Pune
+2023-02-13,Eid Lanterns,Festival,3876.09,22,85273.98,Lucknow
+2023-03-13,Winter Jacket,Winter,3536.19,39,137911.41,Ahmedabad
+2023-10-08,Gloves,Winter,1676.06,45,75422.7,Bangalore
+2024-06-15,Holi Colors,Festival,500.77,15,7511.55,Pune
+2022-01-20,Eid Lanterns,Festival,2700.21,100,270021.0,Mumbai
+2024-03-01,Dehumidifier,Monsoon,1160.95,77,89393.15,Bangalore
+2022-07-26,Ice Cream Maker,Summer,2174.56,31,67411.36,Mumbai
+2024-09-23,Ice Cream Maker,Summer,2150.45,35,75265.75,Jaipur
+2022-04-23,Rakhi,Festival,391.49,17,6655.33,Kolkata
+2022-02-07,Dehumidifier,Monsoon,359.1,58,20827.8,Kolkata
+2022-09-20,Sunglasses,Summer,1508.78,30,45263.4,Hyderabad
+2024-11-02,Raincoat,Monsoon,2695.02,23,61985.46,Ahmedabad
+2024-06-06,Christmas Tree,Festival,3885.54,52,202048.08,Mumbai
+2023-01-14,Ice Cream Maker,Summer,4376.4,28,122539.2,Kolkata
+2022-09-22,Heater,Winter,875.05,26,22751.3,Pune
+2022-12-29,Raincoat,Monsoon,666.62,35,23331.7,Kolkata
+2024-04-19,Mosquito Repellent,Monsoon,4192.97,74,310279.78,Ahmedabad
